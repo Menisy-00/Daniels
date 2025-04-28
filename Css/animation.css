@@ -1,0 +1,104 @@
+@keyframes typing {
+    0%{
+        content: 'D|';
+    }
+    3%{
+        content: 'De|';
+    }
+    6%{
+        content: 'Des|';
+    }
+    9%{
+        content: 'Desi|';
+    }
+    12%{
+        content: 'Desig|';
+    }
+    15%{
+        content: 'Design|';
+    }
+    18%{
+        content: 'Designe|';
+    }
+    21%{
+        content: 'Designer|';
+    }
+    24%{
+        content: 'Designe|';
+    }
+    27%{
+        content: 'Design|';
+    }
+    30%{
+        content: 'Desig|';
+    }
+    33%{
+        content: 'Desi|';
+    }
+    36%{
+        content: 'Des|';
+    }
+    39%{
+        content: 'De|';
+    }
+    42%{
+        content: '|';
+    }
+    45%{
+        content: 'D|';
+    }
+    48%{
+        content: 'De|';
+    }
+    51%{
+        content: 'Dev|';
+    }
+    54%{
+        content: 'Deve|';
+    }
+    57%{
+        content: 'Devel|';
+    }
+    60%{
+        content: 'Develo|';
+    }
+    63%{
+        content: 'Develop|';
+    }
+    66%{
+        content: 'Develope|';
+    }
+    69%{
+        content: 'Develope|';
+    }
+    72%{
+        content: 'Developer|';
+    }
+    75%{
+        content: 'Develope|';
+    }
+    78%{
+        content: 'Develo|';
+    }
+    82%{
+        content: 'Devel|';
+    }
+    85%{
+        content: 'Deve|';
+    }
+    88%{
+        content: 'Deve|';
+    }
+    92%{
+        content: 'Dev|';
+    }
+    95%{
+        content: 'De|';
+    }
+    97%{
+        content: '|';
+    }
+    100%{
+        content: '|';
+    }
+  }
